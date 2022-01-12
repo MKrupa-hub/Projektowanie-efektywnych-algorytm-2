@@ -1,0 +1,16 @@
+C:\Users\mateu\source\repos\PEA2\PEA2\obj\Debug\net5.0\PEA2.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\PEA2\PEA2\obj\Debug\net5.0\PEA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\PEA2\PEA2\obj\Debug\net5.0\PEA2.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\PEA2\PEA2\obj\Debug\net5.0\PEA2.AssemblyInfo.cs
+C:\Users\mateu\source\repos\PEA2\PEA2\obj\Debug\net5.0\PEA2.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\PEA2\PEA2\bin\Debug\net5.0\PEA2.exe
+C:\Users\mateu\source\repos\PEA2\PEA2\bin\Debug\net5.0\PEA2.deps.json
+C:\Users\mateu\source\repos\PEA2\PEA2\bin\Debug\net5.0\PEA2.runtimeconfig.json
+C:\Users\mateu\source\repos\PEA2\PEA2\bin\Debug\net5.0\PEA2.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\PEA2\PEA2\bin\Debug\net5.0\PEA2.dll
+C:\Users\mateu\source\repos\PEA2\PEA2\bin\Debug\net5.0\ref\PEA2.dll
+C:\Users\mateu\source\repos\PEA2\PEA2\bin\Debug\net5.0\PEA2.pdb
+C:\Users\mateu\source\repos\PEA2\PEA2\obj\Debug\net5.0\PEA2.dll
+C:\Users\mateu\source\repos\PEA2\PEA2\obj\Debug\net5.0\ref\PEA2.dll
+C:\Users\mateu\source\repos\PEA2\PEA2\obj\Debug\net5.0\PEA2.pdb
+C:\Users\mateu\source\repos\PEA2\PEA2\obj\Debug\net5.0\PEA2.genruntimeconfig.cache
